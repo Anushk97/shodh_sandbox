@@ -7,3 +7,4 @@ streamlit>=1.2.0
 genesis-world>=0.1.0
 ipywidgets>=7.6.0
 jupyter>=1.0.0
+torch>=1.10.0
